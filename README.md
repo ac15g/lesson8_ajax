@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 4th, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Alita Clark)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(We used an API along with Ajax and JSON to create a site that retrieved information from a web server and displayed it on our own site.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ac15g.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Ajax does not only use XML for formatting. It can also use JSON.)
+2. (Many companies make their APIs available for public use.)
+3. (Very few websites actually gather and store their own data; most just use other people's APIs.)
